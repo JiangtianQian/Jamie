@@ -1,0 +1,5 @@
+indexPath=/Users/kaka/Documents/CMU/searchengine/hw1/index
+retrievalAlgorithm=RankedBoolean
+queryFilePath=/Users/kaka/Documents/CMU/searchengine/hw1/QryEval/query.txt
+trecEvalOutputPath=/Users/kaka/Documents/CMU/searchengine/hw1/QryEval/trec_eval
+trecEvalOutputLength=100

@@ -1,0 +1,6 @@
+indexPath=/Users/kaka/Documents/CMU/searchengine/hw2/index
+queryFilePath=/Users/kaka/Documents/CMU/searchengine/hw2/QryEval/query.txt
+trecEvalOutputLength=100
+retrievalAlgorithm=RankedBoolean
+trecEvalOutputPath=/Users/kaka/Documents/CMU/searchengine/hw2/QryEval/E5_10_0.530.teIn
+fbInitialRankingFile=/Users/kaka/Documents/CMU/searchengine/hw2/QryEval/Indri-Bow.teIn
